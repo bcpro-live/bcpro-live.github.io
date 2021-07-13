@@ -1,4 +1,4 @@
-# BlockChain Proffesional 4 4cubans
+# BlockChain Proffesional 4 Cubans
 
 https://github.com/orgs/bcpro-live/projects/
 
