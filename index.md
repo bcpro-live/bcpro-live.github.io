@@ -1,4 +1,4 @@
-BlockChain Proffesionals 4 Cubans
+BlockChain Proffesionals 4 Cubans.
 
 https://github.com/orgs/thebcpros/teams/bcpro4cubans/repositories
 
